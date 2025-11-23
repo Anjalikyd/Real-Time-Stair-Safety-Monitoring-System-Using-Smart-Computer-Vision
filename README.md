@@ -1,3 +1,2 @@
 # Real-Time-Stair-Safety-Monitoring-System-Using-Smart-Computer-Vision
-A smart crop recommendation system using ML, weather data, and voice interaction to help farmers choose the right crop.
-An AI-driven Crop Precision Farming project integrating Random Forest-based crop recommendation, GPS-driven weather data, soil parameter analysis, and voice-enabled multilingual interface. The system provides accurate crop suggestions and real-time insights to support farmers in sustainable and efficient agriculture.
+A complete Computer Vision–based stair safety monitoring system that uses YOLOv8 for human and phone detection, integrates geometric analysis for railing monitoring, and triggers real-time alerts to prevent stair-related accidents. Supports RTSP/CCTV streams, lightweight deployment, and works efficiently on CPU and edge devices like Jetson Nano.
